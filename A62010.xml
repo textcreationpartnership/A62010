@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyall subjects, or The blessed mans encouragement vpon the Kings retyrement from Hampton Court, November.11. Delivered in a sermon, November the 14th. 1647. By T.S. D.D.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62010</idno>
+            <idno type="STC">Wing S6221</idno>
+            <idno type="STC">ESTC R222129</idno>
+            <idno type="EEBO-CITATION">99833357</idno>
+            <idno type="PROQUEST">99833357</idno>
+            <idno type="VID">37833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2064:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyall subjects, or The blessed mans encouragement vpon the Kings retyrement from Hampton Court, November.11. Delivered in a sermon, November the 14th. 1647. By T.S. D.D.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>[4], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Thomas Swadlin.</note>
+                  <note>Place of publication from by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37833:1" rendition="simple:additions"/>
+            <p>
+               <hi>Loyall Subjects.</hi> OR THE BLESSED Mans Encouragement, Vpon the KINGS retyrement from Hampton Court, <hi>November.</hi> 11. Delivered in a Sermon, <hi>November</hi> the 14<hi rend="sup">th.</hi> 1647.</p>
+            <p>By T.S. D.D.</p>
+            <figure>
+               <figDesc>unknown printer's device</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37833:2"/>
+            <pb facs="tcp:37833:2"/>
+            <head>TO MY HONOVRED FRIENDS, <hi>SIR GEORGE GRAHAM,</hi> AND HIS VERTUOUS LADY, THE LADY <hi>ALICIA GRAHAM.</hi>
+            </head>
+            <opener>
+               <salute>Sir, Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings retyre<g ref="char:EOLhyphen"/>ment hath given me a reſurrection, and I appeare fear<g ref="char:EOLhyphen"/>leſſe, maugre all the threats of his and his Loyall Subjects enemies, in the dedication of theſe lines to your
+<pb facs="tcp:37833:3"/> Patronage; aſſuring my ſelfe they will meet with the ſame welcome and reception in your Armes, which at firſt Your eares gave them; and Your munificent ſelves have ever given, to</p>
+            <closer>
+               <salute>Sir, Madam,</salute>
+               <signed>Your devoted Servant, <hi>Thomas Swadlin.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:37833:3"/>
+            <head>
+               <q>
+                  <bibl>Pſalm. 112.7.</bibl>
+                  <p>Hee ſhall not bee afraid of any evill tydings; his heart ſtandeth faſt beleeving in the Lord.</p>
+               </q>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>ND yet King David was no Stoick; for this Pſalme is an <hi>Exegeſis,</hi> or Expoſition of the former Pſalme, and the laſt verſe of that Pſalme ſpeakes thus; <note place="margin">Pſa. 111.10.</note> 
+               <hi>Timor Domini ini<g ref="char:EOLhyphen"/>tium ſapientiae,</hi> the feare of the Lord is the beginning of wiſdome; and this Pſalme in anſwer to that be<g ref="char:EOLhyphen"/>gins thus; <note place="margin">Pſalm. 112.1</note> 
+               <hi>Beatus qui timet Domi<g ref="char:EOLhyphen"/>num,</hi> bleſſed is the man that feareth the Lord: Wiſdome ſeekes bleſſedneſſe, and by feare findes it, and findes it to the fourth degree, or in foure degrees.</p>
+            <list>
+               <item>1. In the bleſſedneſſe of his Poſterity; <note place="margin">Pſalm. 112.2</note> his ſeede ſhall be mighty upon Earth, the generation of the upright ſhall be bleſſed.</item>
+               <item>2. In the bleſſedneſſe of his plenty, <note place="margin">Pſalm. 112.3</note> wealth and riches ſhall be in his houſe, and his righteouſneſſe endureth for ever.</item>
+               <item>3. In the bleſſedneſſe of his ſtability: <note place="margin">Pſalm. 112.6</note> Surely he ſhall
+<pb n="2" facs="tcp:37833:4"/> not be removed for ever, his righteouſneſſe ſhall be in ever<g ref="char:EOLhyphen"/>laſting remembrance.</item>
+               <item>4. In the bleſſedneſſe of his ſecurity, he ſhall not be a<g ref="char:EOLhyphen"/>fraid of any evill tydings; his heart ſtandeth faſt, belie<g ref="char:EOLhyphen"/>ving in the Lord.</item>
+            </list>
+            <p>And this, though the laſt, is not the leaſt degree of his bleſſedneſſe; his good feare baniſhes his evill feare; he feares God, and therefore he feares not any evill tydings; and that he feares God, he is aſſured of it too; for his heart ſtandeth faſt, and believeth in the Lord: In which words you have obſervable theſe three parts.</p>
+            <list>
+               <item>
+                  <note place="margin">
+                     <hi>Diviſion.</hi>
+                  </note> 1. <hi>Quis non timet?</hi> Who feareth not? <hi>Timens Domi<g ref="char:EOLhyphen"/>num;</hi> He that feareth the Lord, feareth not.</item>
+               <item>2. <hi>Quid non timet timens Dominum?</hi> What he feareth not that feareth the Lord? <hi>Ab auditione mala non timet,</hi> he feareth not any evill tydings.</item>
+               <item>3. <hi>Quare non timet?</hi> Why he feareth not any evill ty<g ref="char:EOLhyphen"/>dings? <hi>Paratum eſt cor ejus, ſtabilitum eſt cor ejus, confir<g ref="char:EOLhyphen"/>matum eſt cor ejus, confidens in Jehova;</hi> his heart is fixt, is e<g ref="char:EOLhyphen"/>ſtabliſhed, ſtandeth faſt, believing in the Lord:</item>
+            </list>
+            <p>
+               <note place="margin">
+                  <hi>Pars.</hi> 1.</note> I begin with the firſt; <hi>Non timet, non timebit,</hi> read it either way, for it is read both waies; in the preſent, or in the future Indicative; if in the preſent, he feareth not, it is K. Davids character of a bleſſed man, &amp; his commendatio<g ref="char:cmbAbbrStroke">̄</g>: if in the fu<g ref="char:EOLhyphen"/>ture, he ſhall not be afraid, it is King Diavids prohibition to the bleſſed man, and his duty: but ether way at firſt ſight it ſeemes a ſtrange commendation, or a ſtrange prohibition.</p>
+            <p>
+               <hi>Timor enim eſt Janitor Cordis, &amp; Virtutis Cuſtos,</hi> ſaies St. <hi>Jerome;</hi> feare is the Guard-royall of the Heart, and keeps out forbidden luſts like unbidden Gheſts, that no ſtrange face may enter the chamber of preſence without a wed<g ref="char:EOLhyphen"/>ding garment: Feare is the Treaſurer of virtue, and keeps it in a cloſe Cabinet, as ſome pretious Jewell, leſt it ſhould take wing, like riches, and fly away.</p>
+            <p>
+               <hi>Timor eſt Fundamentum Salutis,</hi> ſaies, <hi>Tertullian,</hi> feare is the Foundation of Hope, and keepes it like that houſe
+<pb n="3" facs="tcp:37833:4"/> which is built upon a Rock; let the Sea roare, and the Raine fall, and the windes blowe, It ſtands ſaſt, and is un<g ref="char:EOLhyphen"/>ſhaken.</p>
+            <p>
+               <hi>Tuta Armatura eſt Timor,</hi> ſaies St. <hi>Chryſoſtome;</hi> feare is a ſafe Armour; whoſoever hath put it on, hath ſuch a <hi>Coat of Male</hi> as is Sword, Pike, Piſtol, Cannon, &amp; Ordnance proof.</p>
+            <p>
+               <hi>Initium ſapientiae timor eſt,</hi> ſaies <hi>Salomon,</hi> feare is the be<g ref="char:EOLhyphen"/>ginning of wiſdome; not a Student in the Academy of feare, but is ſure to commence Doctour of Wiſdome.</p>
+            <p>
+               <hi>Vita omnium operum,</hi> ſaies <hi>Melancton;</hi> feare is the viva<g ref="char:EOLhyphen"/>city of all our actions; whatſoever wee doe without feare is dead in the very doing; and the reaſon of it is given by <hi>Solomon;</hi> 
+               <note place="margin">Eccleſ. 12.13</note> 
+               <hi>Officium enim eſt totius hominis;</hi> for this is the whole duty of man, to feare God, and keepe his Comman<g ref="char:EOLhyphen"/>dements.</p>
+            <p>And therefore ſaies <hi>Lactantius, Religio, Majeſtas, Honor metu conſtant;</hi> where Religion is neglected, conſuſion en<g ref="char:EOLhyphen"/>ters, nor can Religion ſubſiſt without feare, for what is not feared, is contemned; what is contemned, is not wor<g ref="char:EOLhyphen"/>ſhipped; Religion, Majeſty, and Honour; the Religi<g ref="char:EOLhyphen"/>on of God, the Majeſty of the King, the Honour of the Nobility are all preſerved by feare; take away feare, and take away all.</p>
+            <p>This age, this miſerable age, this worſt of ages gives us too ſad and feeling an example of it; The Kingdome of England hath loſt Religion, the King of England hath loſt his Majeſty, (but for a while, I hope in God it will be found againe) The Nobility of England have loſt their Honour, and all this becauſe the Reformers and Levellers of England have loſt their feare, the feare of God.</p>
+            <p>St. <hi>Bernard,</hi> adviſes moſt divinely, <hi>Cum adeſt gratia, time, nè non digne operreis ex ea; ſubſtracta gratia, magis time, quia te relinquit cuſtoldia tua; ſiredierit gratia, multò ampliùs time, nè fortè contingat pacis excidium;</hi> If grace be preſent with thee, feare leſt thou anſwer not the expectation of that grace; if grace be abſent from thee, feare more, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="4" facs="tcp:37833:5"/> thou art left unto thy ſelfe; if grace returnes to thee againe, feare much more, leſt thy ſecurity ruines thy peace.</p>
+            <p>And if Feare be ſo neceſſary a vertue by the verdict of ſo many learned Fathers, and holy Authours, what meanes King <hi>David</hi> here to give the bleſſed man this Character, to lay upon him this prohibition, Hee feareth not, he ſhall not be afraid?</p>
+            <p>Doe you but diſtinguiſh of the ſubject, Feare, and looke upon the object, what the bleſſed man feareth, and feareth not; and you will preſently confeſſe, there is neither <hi>Adaxie,</hi> nor <hi>Paradox</hi> in this Character, Hee feareth not, in this Prohibition, hee ſhall not bee a<g ref="char:EOLhyphen"/>fraid.</p>
+            <p>Some have diſtinguiſhed Feare into ſix ſorts: Firſt, Naturall, which reſpects Being, and is in all Creatures; <hi>Hoc naturae eſt refugere corruptionem propter naturale deſi<g ref="char:EOLhyphen"/>derium eſſendi;</hi> Every thing naturally deſires to bee, and by inſtinct of nature ſhuns deſtruction: Secondly, Hu<g ref="char:EOLhyphen"/>mane, which reſpects Life, and is in all men, <hi>Humanum eſt vivendi deſiderium, diſſolvendi Chriſtianum:</hi> As a man, Saint <hi>Paul</hi> deſired to live; as a Chriſtian, Saint <hi>Paul</hi> deſired to be diſſolved: Thirdly, Mundane, which reſpects Ri<g ref="char:EOLhyphen"/>ches, Liberty, and the like, and is in covetous and co<g ref="char:EOLhyphen"/>wardly wretches: Fourthly, Servile, which reſpects Puniſhment, and is in Slaves, Reprobates, Rebels, and Devils: Fithly, Initiall, which reſpects ſinne, and is in all good Chriſtians and loyall ſubjects: Sixthly, Fili<g ref="char:EOLhyphen"/>all, which reſpects God, and is in all noble Martyrs and glorious Saints.</p>
+            <p>You may contract theſe ſix into two, <hi>Viz.</hi> Filiall, and Servile; becauſe under Servile may bee compriſed Humane and Worldly; and under Filiall, Initiall, and Naturall.</p>
+            <p>Filiall feare lookes upon God as a Father, and honours him, and is reſolved to honour him, though there were
+<pb n="5" facs="tcp:37833:5"/> neither Heaven nor Hell; no Heaven to reward him, no Hell to torment him.</p>
+            <p>Servile feare lookes upon God as a Judge, and ſhuns him; if now and then in a fit he yeelds him any obedi<g ref="char:EOLhyphen"/>ence, it is <hi>Formidine paenae,</hi> onely to avoide the puniſh<g ref="char:EOLhyphen"/>ment due to the diſobedience.</p>
+            <p>Filiall feare is an ornament and vertue of the Soule; ſervile feare is a paſſion and diſtreſſe of the Soule; fi<g ref="char:EOLhyphen"/>liall is a chaſte feare; ſervile, an adulterate: ſervile fear is in the reprobate both here and in Hell, Filiall feare is in the Regenerate, both in the Church militant and tryumphant; but not here as there, but in ſeverall con<g ref="char:EOLhyphen"/>fiderations; here by two actions, <hi>Fugiendo malum, Faci<g ref="char:EOLhyphen"/>endo bonum,</hi> by eſchewing evill, and doing good; there onely by doing good:</p>
+            <p>
+               <hi>Perficietur in patriâ, non abolebitur reverentia timoris; non minuitur, ſed augetur,</hi> ſayes Saint <hi>Auſtin,</hi> Reveren<g ref="char:EOLhyphen"/>tiall feare ſhall not bee diminiſhed in Heaven, but in<g ref="char:EOLhyphen"/>creaſed: It ſhall not bee aboliſhed, but perfected: Ser<g ref="char:EOLhyphen"/>vile feare is not in them, not in them at all ſo farre as they are Regenerate; as men they may feare their lives, as covetous they may feare their eſtates, as carnall they may feare their liberties; but hee that feares the loſſe of either Liberty, Eſtate, or Life, can never bee good Sol<g ref="char:EOLhyphen"/>dier, or loyall ſubject, can never be good Chriſtian, or Gods ſervant; he may feare God, as God is juſt, and ſo feare is a paſſion and diſtreſſe of the ſoule; he does not feare God as God is good, for ſo feare is a grace and or<g ref="char:EOLhyphen"/>nament of the ſoule,</p>
+            <p>As feare is a paſſion of the ſoule, you may underſtand that ſpeech of Saint <hi>John;</hi> 
+               <note place="margin">Joh. 12.42.</note> Many of the Rulers beleeved in Chriſt, but for feare of the Jewes they did not con<g ref="char:EOLhyphen"/>feſſe him, leſt they ſhould be put out of the Synagogue; for they loved the praiſe of men more then the praiſe of God: I may add, They feared the injuſtice and puniſh<g ref="char:EOLhyphen"/>ment of men more then the juſtice and chaſtiſement of
+<pb n="6" facs="tcp:37833:6"/> God; and therfore ſayes Chriſt, <note place="margin">Matth. 10.28.</note> fear not them which kil the Body, but are not able to kill the ſoule, but rather feare him, who is able to deſtroy both ſoule and body in hell:</p>
+            <p>The words in the Originall are worth your obſerva<g ref="char:EOLhyphen"/>tion; Feare not them <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that doe kill the body; It is not ſayd, Them that can, but, them that doe; they may do ſuch a thing by a permiſſive power, they cannot doe it by any inherent, any native or natural power; <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but the ſoule they may not, they cannot; they neither may nor can kill the ſoule: <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; but rather feare him who hath power to deſtroy both ſoule and body in Hell.</p>
+            <p>I wiſh the <hi>Renegado's</hi> of this age ſeriouſly to conſi<g ref="char:EOLhyphen"/>der theſe Texts; thoſe men I meane, who ſerved the King, and tarryed with him ſo long as the ſun ſhined, and the weather was calme; but ſo ſoone as ever the raine began to fall, and the windes to blow, they pre<g ref="char:EOLhyphen"/>ſently run away to compound &amp; ſave ſomething, a little wealth, and ſome few dayes, but they forget God can and will deſtroy both ſoule and body in Hell.</p>
+            <p>Yes, He both can and will, without a great deale of repentance: for their ſinne is farre more deſperate then the firſt Rebels; they ran into the ſinne out of raſhneſſe and inconſiderately; but theſe men have put God into one ſcale, and the World into another; and therefore to them belongs that miſerable Doome, <note place="margin">Apoc. 21.</note> The fearefull ſhall be caſt out, <hi>i. e.</hi> Such men as feare the loſſe of their Eſtates more then the loſſe of Gods favour, and the loſſe of their momentany life, more then the loſſe of their e<g ref="char:EOLhyphen"/>ternall life; they have forſaken Gods Annointed, and God will forſake them.</p>
+            <p>Whatſoever other men thinke of this policy, and commend it; this is my Piety; God give mee grace to live a Chriſtian, and dye a Romane; to continue Loy<g ref="char:EOLhyphen"/>all, and not feare man, who can but kill my body, and
+<pb n="7" facs="tcp:37833:6"/> dye couragiouſly in the feare of God; ſo I ſhall not feare any evill tydings.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pars.</hi> 2.</note> It is my ſecond Conſideration, <hi>Quid non timet timens Dominum?</hi> what he that feares God, feares not? Hee feares not <hi>ab auditione mala,</hi> or <hi>ab auditu malo, non ti<g ref="char:EOLhyphen"/>met;</hi> He is not afraid, or, he ſhall not be afraid of any evill tydings.</p>
+            <p>At firſt ſight againe, This object increaſes my won<g ref="char:EOLhyphen"/>der; He feares not any evill tydings? <note place="margin">Prov.</note> why, the Kings wrath is evill tydings; for it is the meſſenger of death, and ſhall I not feare him?</p>
+            <p>
+               <hi>Solomon</hi> ſayes, <note place="margin">Prov.</note> Feare God and the King, Saint <hi>Peter</hi> is at the ſame, <note place="margin">1. Pet. 2.</note> Feare God and honour the King; Saint <hi>Paul</hi> is at it for conſcience ſake, <note place="margin">Rom. 13.5.</note> Bee ſubject to the higher powers, not onely for wrath, but conſcience ſake; And is the ſonne of <hi>David</hi> againſt it there? Feare not them that kill the body: and is the Father of Chriſt againſt it here? Feare not any evil tydings, not the wrath of Kings?</p>
+            <p>No, at no hand; This is no abſolute, no generall pro<g ref="char:EOLhyphen"/>hibition, but onely a limitted and comparative; God is to be feared, and the King is to be feared; where their commands are not in oppoſition, Feare belongs to them both, both naturall feare and filiall feare; But when they ſtand in competition, where my obeying the King will diſhonour my God, where my fearing the King will diſpleaſe my God; where ſinne is the ſubject of a Ty<g ref="char:EOLhyphen"/>rants command, and Gods Law muſt thereby be tranſ<g ref="char:EOLhyphen"/>greſſed, I am then at the Apoſtles reſolution, <note place="margin">Act.</note> Whether it be fit to obey God or man, judge you: I am then at King <hi>Davids</hi> bleſſed man, I feare God, I feare not any evill tydings.</p>
+            <p>This will bee more evident, and appeare more lucid<g ref="char:EOLhyphen"/>ly, if wee looke into the diverſe acceptions of <hi>Auditus malus,</hi> and ſee what is the true meaning and right con<g ref="char:EOLhyphen"/>ſtruction of evill tydings.</p>
+            <pb n="8" facs="tcp:37833:7"/>
+            <p n="1">1. It ſignifies ſometimes Calumnies, contumelies, checks, taunts, and reproaches, wherewith they that feare the Lord are ſlaundered: Thus gluttony, blaſphe<g ref="char:EOLhyphen"/>my, and ſedition were objected to Chriſt; and now his ſervants, and the Kings liege people are called, I ſhould have ſayd, Miſcalled, Malignants, Delinquents, Evill Counſellers, Papiſts, Enemies of the Church, and trou<g ref="char:EOLhyphen"/>blers of the State; <hi>Haec autem perferre difficile;</hi> and this is a very heavy burthen to beare, <hi>Generoſis enim animis Cruciatus corporis, quam jacturam famae facilius eſt per<g ref="char:EOLhyphen"/>ferre;</hi> A noble minde had rather have his body bruiſed then his Credit blaſted; yet he that is truely noble, <hi>Et ſola virtus vera Nobilitas,</hi> the noble Chriſtian that fear<g ref="char:EOLhyphen"/>eth God is ſo farre from being afraid of thoſe evill ty<g ref="char:EOLhyphen"/>dings, that hee neither forſakes the Truth, nor declines his Loyalty: He is not afraid of thoſe evill tydings.</p>
+            <p n="2">2. Sometimes evill tydings ſignifie, <hi>Famam ſiniſtram quam improbi culpâ ſua ſibi contrahunt,</hi> That evill report which baſe people deſervedly bring upon themſelves; Thus <hi>Shemei</hi> is called a Raylor for ſpeaking evill of the King, thus <hi>Doeg</hi> is called an Accuſer, for belying the Lords annoynted, and his Prieſts: Thus <hi>Abſolon</hi> and <hi>Achitophell</hi> are called Conſpirators, the one for taking Armes, the other for giving counſell againſt their So<g ref="char:EOLhyphen"/>veraigne: Thus <hi>Corah, Dathan,</hi> and <hi>Abiron,</hi> and all their followers, ſuch as riſe againſt their King, upon pretence that hee ſtretches his Prerogative too high, are called <hi>Rebells.</hi>
+            </p>
+            <p>But they that feare God, and all Loyall Subjects doe feare God, feare no ſuch aſperſions: If they are caſt upon them by evill tongues, they readily anſwer them as Saint <hi>Auſten</hi> did <hi>Petilian</hi> upon a like ſcandall, I know no ſuch thing by my ſelfe, and I thinke I know my ſelfe better then hee knowes me, but beleeve you whom you pleaſe, him or my ſelfe, I am not afraid of theſe evill tydings.</p>
+            <pb n="9" facs="tcp:37833:7"/>
+            <p n="3">3. Sometimes Evill tydings ſignifie Dangers and Calamities, <hi>Jobs</hi> meſſengers; one tells us our Cattell are Plundered, another, our Houſes are fired, a third, our Children are murthered, a fourth, our Soldiers are mutinied, our Garriſons are betrayed, our Armies are disbanded, and faire quarter is denyed, or if promiſed, it is not performed.</p>
+            <p>Why yet, <hi>Non ſuccumbit juſtus, non deficit juſtus,</hi> He that feares God faints not, failes not, looſes not his cou<g ref="char:EOLhyphen"/>rage; yea, though he knowes death to be the Guerdon of his not yielding to a Conquerors pleaſure, hee lookes upon his Saviour, and feares not him that kills the body, he lookes upon King <hi>Davids</hi> bleſſed man, and feares not any evill tydings.</p>
+            <p>Theſe times offer as fit a caſe as this Text requires: King <hi>David</hi> pronounces the man bleſſed that feareth God; my fearing God is beſt evidenced to mee by my obedience to my parents, for that is Gods command: <note place="margin">Exod. 20.</note> Honour thy Father, and thy Mother; my great Parent is the King, he is <hi>Pater patriae,</hi> the Father of the King<g ref="char:EOLhyphen"/>dome, and the higher power, <note place="margin">Rom. 13.1.</note> ſo Saint <hi>Paul</hi> calls him, The ſupreame power, <note place="margin">1. Pet. 2.</note> ſo Saint <hi>Peter</hi> calls him, There<g ref="char:EOLhyphen"/>fore I to be ſubject to him, and not to reſiſt him, is Saint <hi>Pauls</hi> inference: Therefore I to honour him, and to feare him, is Saint <hi>Peters:</hi> And to take away all reply, Saint <hi>Johns</hi> rule holds in this of Feare, as well as in that of Love: <note place="margin">1 Joh. 4.20.</note> Hee that ſayes he loves God whom hee hath not ſeene, and loves not his brother whom hee hath ſeene, is a lyer; ſo he that ſayes hee feares Gods whom he hath not ſeene, and feares not Gods Annointed, whom he hath ſeene, ſpeakes not true Engliſh.</p>
+            <p>But now there is a Pack of men met together, who call themſelves a Power above the King, a Supremacy above the Supremacy, a Sun above the Sun; who com<g ref="char:EOLhyphen"/>mand us to take part with them againſt the King, who, if we doe not, threaten us with Sequeſtration of our E<g ref="char:EOLhyphen"/>ſtates,
+<pb n="10" facs="tcp:37833:8"/> that is Beggery, with regiſtring our Names in their blacke Booke, that is Infamie, with bringing us to the Barre of Juſtice, of their juſtice, that is, Death.</p>
+            <p>Wee know, if wee forſake the King, and ſide with them againſt the King, wee ſinne becauſe we reſiſt the higher power: If wereſiſt, we incurre damnation: The word is <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, let Maſter <hi>Marſhall</hi> qualifie it as he plea<g ref="char:EOLhyphen"/>ſes, the deſtruction of our ſoules and bodyes here, and for ever.</p>
+            <p>Now here is the tryall: <note place="margin">2 Sam. 15.21.</note> If we ſtand to the King, and doe our duety, if we are reſolved as <hi>Ittai</hi> was, where<g ref="char:EOLhyphen"/>ſoever my Lord the King is, whether in life or death, there will thy ſervant alſo be, then we feare God.</p>
+            <p>But if wee goe back to them that oppoſe the King, let it be upon what conſiderations it may, I ſhall leave my Wife and Children Beggers elſe, I ſhall be a ſlave and priſoner all the dayes of my life elſe; elſe I ſhall be hang<g ref="char:EOLhyphen"/>ed my ſelfe; and theſe petty thoughts fright me out of my duty, I have then ruin'd my Bleſſedneſſe, I am not bleſſed, I have loſt my evidence, I feare not God, and am a witneſſe againſt my ſelfe, that I am afraid of e<g ref="char:EOLhyphen"/>vill tydings.</p>
+            <p>Well fare that Heathen, who was reſolved for all fortunes, and will riſe in judgement againſt the coward<g ref="char:EOLhyphen"/>ly Chriſtians of England; his reſolution was thus ex<g ref="char:EOLhyphen"/>preſſed.
+<q>
+                  <l>—Non fulminantis magna Jovis manus</l>
+                  <l>Terrebit juſtum:</l>
+               </q> And againe,
+<q>
+                  <l>Etiamſi fractus illibatur orbis,</l>
+                  <l>Impavidum ferient ruinae:</l>
+               </q>
+            </p>
+            <p>Let the World totter, turne rnund, and fall, I will not be afraid.</p>
+            <pb n="11" facs="tcp:37833:8"/>
+            <p>But a Heathen is not fit to be our Scholemaſter: look wee upon the Primitive Chriſtians, and amongſt them, well fare old <hi>Hilarion,</hi> who being in the hands and power of his Perſecutors, and by them demanded, <hi>An non timeret,</hi> If he were not afraid of thoſe evill tydings they brought him, for they came to ſtrippe and plunder him; returned them an anſwer as full of gallantry as mirth, <hi>Nudus latrones non timet,</hi> an empty Shippe feares not a Pyrate, a poore man feares not Theeves: They then threaten him with <hi>Terribilium terribiliſſima,</hi> and the very <hi>Hyperbole</hi> of evill tydings, <hi>Sed occidemus te,</hi> we will put thee to moſt exquiſite torments, and in the end kill thee; <hi>Non times mortem,</hi> art thou not afraid of death? and hee returnes as great an Hyperbole of Gallantry, <hi>Non timeo mortem, quia paratum eſt cor meum confidens in Jehovâ, &amp; paratus ſum mori;</hi> No, I feare not death, be<g ref="char:EOLhyphen"/>cauſe my heart is eſtabliſhed, beleeving in the Lord, and I am prepared to dye.</p>
+            <p>Well fare Saint <hi>Chryſoſtome,</hi> who being threatned with Baniſhment by that Empreſſe of a good name, but a badd nature, <hi>Eudoxia, Et vult me Exulem Regina?</hi> and will ſhee baniſh me, ſayd he? <hi>Agat,</hi> let her doe it, ſhee cannot baniſh me from the preſence of God; <hi>Domini enim eſt terra,</hi> for the whole earth is the Lords, and the fulneſſe thereof.</p>
+            <p>Another bids him hide himſelfe, and ſave his life, for the Empreſſe would ſaw him to death, <hi>Et me ſeca<g ref="char:EOLhyphen"/>bit? ſecet;</hi> And will ſhee ſaw mee to death? content ſayes he, I am not afraid to follow the prophet <hi>Iſaiah</hi> in his way to the Kingdome of Heaven.</p>
+            <p>A third bids him ſhift away, for elſe the Empreſſe would caſt him into the Sea; <hi>Immerget? Immergat;</hi> will ſhee caſt me into the Sea, ſayes he, content ſtill; I doubt not but to finde as good a planke, as <hi>Jonas</hi> did, to ſave me from drowning.</p>
+            <p>A fourth adviſes him to ſecure himſelfe, for the Em<g ref="char:EOLhyphen"/>preſſe
+<pb n="12" facs="tcp:37833:9"/> would caſt him into the Furnace of fire; <hi>Iniciat,</hi> ſayes he, as ſhee pleaſes; I am not afraid of a fity Cha<g ref="char:EOLhyphen"/>riot, the three Children will beare me company, and the ſonne of God will drive the Coach ſo faſt, that the flames ſhall neither ſcorch my fleſh, nor ſinge my cloathes.</p>
+            <p>A fift bids him take Sanctuary, for the Empreſſe would have him throwne into a Den of Lyons; <hi>Jaciat,</hi> ſayes he, content ſtill, I make no queſtion but the Angels will muſle them for hurting me.</p>
+            <p>Yet a ſixt perſwades him to convey himſelfe aſide for a little while, that the Church of Chriſt might receive ſome further benefit by him, elſe the Emprelſe would have him ſtoned to death; <hi>Fiat voluntas Dei,</hi> ſayes he, I have alwayes prayed that the will of God might bee fulfilled, and if this be his will, let it bee fulfilled, and Hers too<g ref="char:punc">▪</g> I will uſe all lawfull meanes for my preſerva<g ref="char:EOLhyphen"/>tion, being perſecuted in this City, I will flie into ano<g ref="char:EOLhyphen"/>ther, but ſtill with this reſolution, I am not afraid to follow Saint <hi>Stephen</hi> thorow a whole ſhowre or Quar<g ref="char:EOLhyphen"/>ry of ſtones into the Kingdome of Heaven.</p>
+            <p>If theſe Examples be <hi>procul,</hi> and too farre, at too great a diſtance for us to follow; looke we then upon ſome of our owne Country-men, and amongſt them up<g ref="char:EOLhyphen"/>on a noble <hi>Glenham,</hi> who was more conquered by an empty diſh, then by an inſulting and increaſing Foe, and yet was afraid of neither, but left his Garriſon of <hi>Carlile</hi> with more honour, then his Enemy gain'd it.</p>
+            <p>Looke wee upon a valiant <hi>Fawcet,</hi> who was more conquered by the mutiny of his unfaithfull ſlaves, for they are not worthy the name of Soldiers, that will mu<g ref="char:EOLhyphen"/>tiny, then his thundering enamies, and yet was afraid of neither, but came off with more honour then he left behinde him.</p>
+            <pb n="13" facs="tcp:37833:9"/>
+            <p>Looke we upon a Loyall <hi>Compton,</hi> who notwithſtan<g ref="char:EOLhyphen"/>ding the improbability of reliefe, and the continuation of an hard Seige, and the multiplication of a cruell E<g ref="char:EOLhyphen"/>nemy, was yet reſolved to feare nothing, but to come off with ſo much honour, as to leave none behind him for his enemy.</p>
+            <p>Looke wee upon an undaunted <hi>Arundell,</hi> who being ſummoned to deliver up the remainder in the <hi>Weſt,</hi> and allured thereunto, becauſe the Kings party was ut<g ref="char:EOLhyphen"/>terly defeated; returned an anſwer as full of Reſolution, as Religion, as full of courage as Chriſtianity, and ſuch as became both a Soldier and a Chriſtian, <hi>I have lived untainted theſe threeſcore and ſeaven yeares, and I have not now any minde to go a Rebell to my grave.</hi>
+            </p>
+            <p>Remember if you revolt, you turne Rebells, and if you dye in that Apoſtacy, you dye Rebells, and leave an <hi>Odium</hi> upon your Name, and a Curſe upon your Eſtates.</p>
+            <p>Looke wee upon thoſe Gentlemen, but looke wee u<g ref="char:EOLhyphen"/>pon them with the eyes of charity and imitation, who at the laſt of all went from <hi>Portſmouth</hi> and <hi>Exeter</hi> to <hi>Ox<g ref="char:EOLhyphen"/>ford;</hi> what carryed them ſo many a weary ſteppe, when they might have lived quietly there, or have gone ſafely to their owne habitation, but the example of a <hi>Loyall Wag<g ref="char:EOLhyphen"/>ſtaf,</hi> and the feare of being tempted into a Rebellion, and a deſire to live and dye in his Majeſties ſervice?</p>
+            <p>I could tell you of many more, who have choſe rather to live in Exile, in Priſon, in Poverty, then any way to comply or compound with the enemy; having yet a hope above reaſon, but not without faith, that God will at laſt ariſe, and acknowledge his owne cauſe, and maintaine it, and remember how the fooliſh man hath blaſphemed him.</p>
+            <p>And that God may owne his cauſe, looke wee upon his Majeſty; who not withſtanding ſo many waves of the ſea, and ſo much madneſſe of the people in the loſſe of all,
+<pb n="14" facs="tcp:37833:10"/> and above all, in the unreaſonableneſſe of Propoſitions, is yet ſo farre from being afraid of any evill tydings, that he yet doubts not to recover all, at leaſt to requite all our mi<g ref="char:EOLhyphen"/>ſeries with the bleſſing of peace, and honourable conditi<g ref="char:EOLhyphen"/>ons.</p>
+            <p>And that God may bleſſe him in theſe undertakings with ſucceſſe; looke wee upon him with admiration for his conſtancy and perſeverance; looke wee upon him with imitation for his patience, and purſuing Peace; looke we upon him with ſighs and teares, that Hee ſo good a King, ſhould have ſo bad Subjects; looke wee upon him with Loyalty and contribution, and make it a caſe of conſci<g ref="char:EOLhyphen"/>ence, whether when he undertakes ſo many hazards for us as his former journey to the Scots did, and his preſent retirement, God knowes whither, preſents him with, it be not a riſing ſin for us to murmure, or for any of our Party to feare; whether it be not a ſin in every one of us to ſpend a penny upon our ſuperfluities, now hee wants ſo many for his owne, and our urgent neceſſities; but eſpe<g ref="char:EOLhyphen"/>cially looke wee upon him with prayers and ſupplications, that God would bleſſe his pious Oratory with a gratious peace, or by an unexpected ſupply with a glorious victo<g ref="char:EOLhyphen"/>ry.</p>
+            <p>And doubt not, but that God, who in a like expedition returned him ſafe from a Spaniſh Treachery, and delive<g ref="char:EOLhyphen"/>red him from the pawe of the Beare, and Beaſts of ra<g ref="char:EOLhyphen"/>vine, will alſo preſerve him from an Engliſh Conſpiracy, and deliver him from the Talon of the Eagle, and Birds of Prey.</p>
+            <p>If he miſcarry in one or both, blame not the goodneſſe of his Cauſe or Perſon, but the badneſſe of our ſelves, the falſeneſſe of our hearts, and the faintneſſe of our Prayers.</p>
+            <p>Never was a better Cauſe ſince the World began: No not in the Primitive Perſecutions; for then Heathen Em<g ref="char:EOLhyphen"/>perours perſecuted Chriſtian Subjects: But now Hea<g ref="char:EOLhyphen"/>then
+<pb n="15" facs="tcp:37833:10"/> Subjects under Chriſtian names perſecute the beſt of Chriſtian Kings; and if ſuch a Cauſe periſh, wee muſt conclude our ſelves the worſt of People ſince <hi>Adam</hi> be<g ref="char:EOLhyphen"/>gat <hi>Caine:</hi> Never was a better King, no not in Iſrael, ſetting aſide the ſpirit of Propheſie, King David himſelfe cannot outvye him for goodneſſe, and if hee and wee periſh, it is not becauſe hee, but wee have done wicked<g ref="char:EOLhyphen"/>ly.</p>
+            <p>King David was a man after Gods owne heart; and is not King <hi>Charles</hi> ſo too? The reaſon I am ſure is alike for both; <hi>Confirmatum enim eſt cor ejus;</hi> for his heart ſtan<g ref="char:EOLhyphen"/>deth faſt, believing in the Lord,</p>
+            <p>
+               <note place="margin">
+                  <hi>Pars.</hi> 3.</note> It is my third conſideration: <hi>Quare non timet ab audi<g ref="char:EOLhyphen"/>tu malo?</hi> Why he that feareth God feareth not any evill tidings? <hi>Paratum eſt cor ejus, confirmatum eſt cor ejus, ſtabili<g ref="char:EOLhyphen"/>cameſt cor ejus,</hi> read it which way you pleaſe, his heart ſtand eth faſt, and believeth in the Lord, his heart is prepared to believe in the Lord.</p>
+            <p>And heere the very object, Lord, is enough to make our heart to ſtand faſt, and believe.</p>
+            <p>Were it but <hi>El,</hi> there were a <hi>Magazine</hi> of ſtrength in that, and wee ſhall have reliefe enough, if wee believe in <hi>Him</hi> as <hi>Hee</hi> is a <hi>ſtrong God.</hi>
+            </p>
+            <p>Were it but <hi>Shaddai,</hi> there is a <hi>Pana cea</hi> of ſufficiency in that, and wee ſhall have ſuccour enough, if we believe in <hi>Him</hi> as <hi>Hee</hi> is <hi>God Al-ſufficient.</hi>
+            </p>
+            <p>Were it but <hi>Elion,</hi> there is a Mountaine of Hope in that, and wee ſhall have ſupply enough, if our heart ſtandeth faſt in <hi>Him</hi> as <hi>Hee</hi> is the <hi>Moſt high God.</hi>
+            </p>
+            <p>Were it but <hi>Tſebaoth.,</hi> there is an Army of Protection in that, and wee ſhall have victory enough, if our heart ſtandeth faſt and believeth in <hi>Him</hi> as <hi>Hee</hi> is the <hi>Lord</hi> of <hi>Hoſts.</hi>
+            </p>
+            <pb n="16" facs="tcp:37833:11"/>
+            <p>Were it but <hi>Adonai,</hi> there is a Rocke of Preſervation in that, and wee ſhall be upheld enough, if wee believe in <hi>Him</hi> as he is the <hi>ſtrong Foundation.</hi>
+            </p>
+            <p>But it is more then all this; for it is <hi>Jehovah,</hi> the moſt eſſentiall and excellent name of God; If <hi>El,</hi> implies his <hi>Omnipotency;</hi> If <hi>Elion</hi> implies his <hi>Soveraignety;</hi> If <hi>Shaddai</hi> implies his <hi>Immutability;</hi> If <hi>Tſebaoth</hi> implies his <hi>Irreſiſtability;</hi> If <hi>Adonai</hi> implyes his <hi>Fidellity;</hi> ſure I am <hi>Jehovah</hi> implies them all, whether you take it in the con<g ref="char:EOLhyphen"/>ſtruction of our owne Divines, or in the <hi>Derivation</hi> of others.</p>
+            <p>In the Conſtruction of our owne Divines it ſignifies three things: Firſt, <hi>Habere eſſe a ſe ipſo,</hi> that hee hath his Being of himſelfe: Secondly, <hi>Dare eſſe omnibus,</hi> that hee gives a being to all things that be: Thirdly, <hi>Dare eſſe verbo,</hi> that he gives a being to his word, and wee there<g ref="char:EOLhyphen"/>fore neede not feare, if wee believe the truth of his word, but he will give Rebells their due, and ſettle the Crowne to flouriſh upon the Kings head.</p>
+            <p>Or if you take the meaning of <hi>Jehovah,</hi> in the derivati<g ref="char:EOLhyphen"/>on of other, either with <hi>Oleaſter,</hi> as it is derived from <hi>Ho<g ref="char:EOLhyphen"/>vah,</hi> which ſignifies <hi>Deſtruction,</hi> then wee have reaſon to believe, Hee will be mighty in the deſtruction of his Ene<g ref="char:EOLhyphen"/>mies: Or whether you take it with <hi>Galatinus,</hi> as it is de<g ref="char:EOLhyphen"/>rived from <hi>Hajah,</hi> which ſignifies to bee, and wee have reaſon to beleeve, Hee will be mighty amongſt us in our Preſervation.</p>
+            <p>
+               <hi>Let your hearts ſtand faſt in Jehovah then,</hi> And ere long, <hi>He</hi> will either divert our Enemies from purſuing us, as he did <hi>Saul</hi> from hunting <hi>David;</hi> or, Hee will divide our Enemies in their <hi>Conſultations,</hi> as he did deſtroy the coun<g ref="char:EOLhyphen"/>ſell of <hi>Achitophell</hi> by the counter-counſell of <hi>Huſhai;</hi> or,
+<pb n="17" facs="tcp:37833:11"/> Hee will give our Enemies to ſelfe-deſtruction, as he did <hi>Abimelech,</hi> and the houſe of <hi>Millo:</hi> or Hee will call back our enemies by ſtrange rumours, as he did the <hi>Aſſiryans.</hi>
+            </p>
+            <p>All theſe wayes, and many more, God can doe it, ſo that wee need not bee afraid of any evill tydings, and Hee will be perſwaded to doe it, if we <hi>feare him,</hi> for when wee <hi>feare him,</hi> then, as it was when the <hi>Dictator</hi> ruled in <hi>Rome,</hi> all other offices ceaſed: ſo when the feare of God is in us, then all other feares vaniſh.</p>
+            <p>This was acknowledged by that once magnanimous Earle of <hi>Eſſex,</hi> but afterwards the Rebell Father of a Rebell Sonne; ſometimes ſayd hee. When I have beene in the Field, and encountered the Enemy, the weight of my ſinnes have lyen ſo heavy upon my con<g ref="char:EOLhyphen"/>ſcience, becauſe I was not reconciled to my God, that my Spirits were quelled, and I have beene the moſt ti<g ref="char:EOLhyphen"/>merous man upon the earth.</p>
+            <p>I wiſh our Gentlemen of the Sword, if ever the King hath occaſion to uſe them againe, that they would not batter our Walls more within by ſinne, then the Enemy can doe without by Guns; that they would not ſtorme themſelves more by oathes, and ruine themſelves more by mutining, and undoe themſelves more by Treachery, then an Enemy can by ſtrength; and you that heare mee this day, Let your hearts ſtand faſt, and beleeve in the Lod: And that our hearts may, and that the heart of the King may, Pray wee for him and for our ſelves.</p>
+            <pb n="18" facs="tcp:37833:12"/>
+            <p>Helpe the King O God, and helpe us O God; for vaine is the helpe of man: Though thou haſt caſt him a great way off, yet bee not diſpleaſed too long, but turne thee unto him againe, and returne him unto us againe; but returne him ei<g ref="char:EOLhyphen"/>ther with an Olive of Peace, or with a Law<g ref="char:EOLhyphen"/>rell of Conqueſt; or if neither, yet let neither tribulation, nor anguiſh, nor ſword, nor any o<g ref="char:EOLhyphen"/>ther thing ſeparate us from fearing thee, that we may not be afraid of any evill tydings, be<g ref="char:EOLhyphen"/>cauſe of thy love in Jeſus Chriſt: Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
